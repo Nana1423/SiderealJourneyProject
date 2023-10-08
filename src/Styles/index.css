@@ -1,0 +1,23 @@
+@font-face {
+  font-family: monadTypeface;
+  src: url(../../public/Monad.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+
+body{
+  background-color: black;
+  margin: 0;
+  overflow: hidden;
+}
+
+h1{
+  font-family: monadTypeface;
+}
+
+h2, h3, p, li, a, input, button{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+

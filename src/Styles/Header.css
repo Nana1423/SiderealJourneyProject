@@ -1,0 +1,38 @@
+header{
+    z-index: 30;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    padding-top: 20px;
+}
+
+header img {
+    width: 150px;
+    height: 50px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    color: white;
+    margin: 0;
+    margin-right: 50px;
+}
+
+header ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+header ul li a:hover{
+    color: #F69BF9;
+    fill: #F69BF9;
+}
+
+.userIcon{
+    height: auto;
+}

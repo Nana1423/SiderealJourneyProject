@@ -1,9 +1,12 @@
+import Home from "./Pages/Home"
+import Login from "./Pages/Login"
+import Config from "./Pages/Config"
 
 function App() {
 
   return (
     <>
-      <h1>Sidereal Journey Project</h1>
+      <Config/>
     </>
   )
 }
