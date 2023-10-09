@@ -1,0 +1,15 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/" },
+      { "src": "/login", "dest": "/" },
+      { "src": "/config", "dest": "/" },
+      { "src": "/slide7", "dest": "/" },
+      { "src": "/crew", "dest": "/" },
+      { "src": "/slide1", "dest": "/" },
+      { "src": "/slide2", "dest": "/" },
+      { "src": "/slide3", "dest": "/" },
+      { "src": "/slide4", "dest": "/" },
+      { "src": "/slide5", "dest": "/" },
+      { "src": "/slide6", "dest": "/" }
+    ]
+}
