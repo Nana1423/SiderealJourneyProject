@@ -22,7 +22,8 @@ export default function Login() {
                     <form action="" className="login-form">
                         <input className="user-login" type="text" placeholder="User" name="" id="" />
                         <input className="password-login" type="password" placeholder="Password" name="" id="" />
-                        <Button variant="contained" className="submit-login" type="submit">Login</Button>
+                        <a href="/config">Forgot your password?</a>
+                        <a href="/slide1"><Button variant="contained" className="submit-login" type="submit">Login</Button></a>
                     </form>
                 </div>
             </main>
