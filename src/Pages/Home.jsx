@@ -16,7 +16,7 @@ export default function Home() {
                 <section className="home-section">
                     <h1>Hello, Astronauts</h1>
                     <h2>Let’s discover the eclipses</h2>
-                    <Button variant="contained">Click here to start your journey!</Button>
+                    <a href="/slide1"><Button variant="contained">Click here to start your journey!</Button></a>
                 </section>
                 <p>Developed by Nemesis Crew</p>
             </main>

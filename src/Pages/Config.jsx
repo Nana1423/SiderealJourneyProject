@@ -17,10 +17,11 @@ export default function Config() {
                 <div className="login-div">
                     <div className="login-text">
                         <h2>Settings</h2>
-                        <SettingsIcon className="settings-icon"/>
+                        <SettingsIcon className="settings-icon" />
                     </div>
                     <form action="" className="login-form">
-                    <input className="user-login" type="password" placeholder="Current Password" name="" id="" />
+                    <input className="user-login" type="text" placeholder="User" name="" id="" />
+                        <input className="user-login" type="password" placeholder="Current Password" name="" id="" />
                         <input className="user-login" type="text" placeholder="New Password" name="" id="" />
                         <input className="password-login" type="text" placeholder="Confirm Password" name="" id="" />
                         <Button variant="contained" className="submit-login" type="submit">Confirm</Button>

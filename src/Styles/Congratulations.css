@@ -1,0 +1,12 @@
+.bye-div{
+    color: black;
+    background-color: white;
+    width: 700px;
+    padding: 0 50px 50px 50px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.bye-div p{
+    color: black;
+}
